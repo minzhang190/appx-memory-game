@@ -1,0 +1,61 @@
+.back.card-1 {
+  background-image: url(apple.jpg);
+}
+.back.card-2 {
+  background-image: url(fig.jpg);
+}
+.back.card-3 {
+  background-image: url(grape.jpg);
+}
+.back.card-4 {
+  background-image: url(kiwi.jpg);
+}
+.back.card-5 {
+  background-image: url(lemon.jpg);
+}
+.back.card-6 {
+  background-image: url(lime.jpg);
+}
+.back.card-7 {
+  background-image: url(mango.jpg);
+}
+.back.card-8 {
+  background-image: url(melon.jpg);
+}
+.back.card-9 {
+  background-image: url(orange.jpg);
+}
+.back.card-10 {
+  background-image: url(peach.jpg);
+}
+.back.card-11 {
+  background-image: url(pear.jpg);
+}
+.back.card-12 {
+  background-image: url(pinapple.jpg);
+}
+.back.card-13 {
+  background-image: url(plum.jpg);
+}
+.back.card-14 {
+  background-image: url(raspberry.jpg);
+}
+.back.card-15 {
+  background-image: url(strawberry.jpg);
+}
+
+/** Matching Cards **/
+/**
+ * If you wish to have custom matching images, you can do so
+ * by leveraging the 'matching' class which is added to one
+ * of the matching cards. See the example below.
+ *
+ * .back.card-1 {
+ *   background-image: url(../images/fruits/apple_1.jpg);
+ * }
+ *
+ * .back.matching.card-1 {
+ *   background-image: url(../images/fruits/apple_2.jpg);
+ * }
+ *
+ */
