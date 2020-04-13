@@ -1,4 +1,4 @@
-document.title = "Shēntǐ";
+document.title = "Shēntǐ (2)";
 
 loadSound([
     "5e8dac932c02d5b61d43063a.mp3",
